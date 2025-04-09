@@ -18,9 +18,9 @@
 
 ## Παράδειγμα κώδικα
 
-- [ ] [Έλεγχος εναέριας κυκλοφορίας](./...) (Mediator version)
+- [ ] [Έλεγχος εναέριας κυκλοφορίας](./source_code/airTrafficControl.cpp) (C++)
 
-### Ενδεικτικές πηγές για περαιτέρω μελέτη:
+## Ενδεικτικές πηγές για περαιτέρω μελέτη:
 - [ ] [Design patterns: c++ examples on Github](https://github.com/JakubVojvoda/design-patterns-cpp/tree/master)
 - [ ] [Design patterns: elements of reusable object-oriented software](http://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf)
 - [ ] [Evaluation of design pattern alternatives in Java](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.3061)
