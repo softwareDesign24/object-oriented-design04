@@ -9,7 +9,7 @@
 ## Γενική περιγραφή Mediator
 Η γενική αρχή της σχεδίασης θα μπορούσε να αποτυπωθεί ως εξής:
 
-<kbd>![Διάγραμμα κλάσεων](https://en.wikipedia.org/wiki/Mediator_pattern#/media/File:Mediator_design_pattern.png)</kbd>
+<kbd>![Wikipedia: mediator pattern](https://commons.wikimedia.org/wiki/File:Mediator_design_pattern.png#/media/File:Mediator_design_pattern.png)</kbd>
 
 
 
