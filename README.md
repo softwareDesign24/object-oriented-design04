@@ -10,7 +10,7 @@
 Η γενική αρχή της σχεδίασης θα μπορούσε να αποτυπωθεί ως εξής:
 
 <kbd>![Wikipedia: mediator pattern](./img/cd_mediator01.png)</kbd>
-
+*Η εικόνα είναι εμπνευσμένη από την ομώνυμη ταινία γουέστερν: [The_Good,_the_Bad_and_the_Ugly](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly).*
 
 
 
